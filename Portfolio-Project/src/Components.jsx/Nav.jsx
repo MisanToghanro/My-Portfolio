@@ -38,7 +38,7 @@ const NavBar = () => {
     </NavLink>
     <NavLink
       to="/contact"
-      className="block p-4 bg-blue-600 hover:bg-blue-700 hover:scale-105 text-white rounded-md"
+      className="block p-4 sm:mb-2 sm:hover:text-blue-400 md:bg-blue-600 md:hover:bg-blue-700 hover:scale-105 text-white rounded-md"
     >
       Contact Me
     </NavLink>

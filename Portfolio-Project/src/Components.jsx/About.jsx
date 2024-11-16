@@ -29,7 +29,14 @@ const About = () => {
                     good but also deliver a smooth, enjoyable user experience. From seamless API integration to dynamic, mobile-friendly layouts, 
                     I’m all about creating web applications that make an impact.
                 </p>
-    
+
+                <button className="relative overflow-hidden mt-3 px-4 py-2 bg-blue-600 text-white font-semibold rounded-md hover:bg-blue-700  hover:scale-105 shadow-lg">
+                <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white to-transparent opacity-25 animate-shine"></span>
+                <a href="https://drive.google.com/file/d/144Vhm7livYTula4tfzyJKbltu1cqYpXm/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                My Certificate
+                </a>
+                </button>
+
                 <div className="mt-8 text-center md:text-left">
                     <p className="mb-4 font-semibold text-gray-200">Ready to dive in? Click below to explore my skills!</p>
                     
